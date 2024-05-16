@@ -37,7 +37,7 @@ cd fastapi-docker
 
 1. Crie um arquivo `main.py` com o seguinte conteúdo:
 
-python
+Python
 
 ```python
 from fastapi import FastAPI
